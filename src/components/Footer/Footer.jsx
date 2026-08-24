@@ -45,9 +45,9 @@ const Footer = () => {
         <div className={styles.contactColumn}>
           <h4>Connect</h4>
           <div className={styles.socialGrid}>
-            <a href="https://github.com/AryanDevHub/Periodic-Table" aria-label="GitHub"><i className="fab fa-github"></i></a>
-            <a href="https://www.instagram.com/quarx_edu?igsh=MWg1bGJzMzdhN21pNQ==" aria-label="Instagram"><i className="fab fa-instagram"></i></a>
-            <a href="quarx.edu@gmail.com" aria-label="Email"><i className="fas fa-envelope"></i></a>
+            <a href="https://github.com/abhisharma64204-web" aria-label="GitHub"><i className="fab fa-github"></i></a>
+            <a href="https://www.instagram.com/abhi_6420_" aria-label="Instagram"><i className="fab fa-instagram"></i></a>
+            <a href="abhisharma64204@gmail.com" aria-label="Email"><i className="fas fa-envelope"></i></a>
           </div>
         </div>
       </div>
